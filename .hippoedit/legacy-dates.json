@@ -1,0 +1,22 @@
+{
+  "files": {
+    "commands.xml": {
+      "last_commit_epoch": 1788967862,
+      "sha256": "18e0b94fec6581503250795c59e4e2d3fbaf58090b80f38931f01e076acc8c18"
+    },
+    "keymap.xslt": {
+      "last_commit_epoch": 1788967862,
+      "sha256": "1390dff88c7451332a1a0d776e620a8f5b7fe36928d307aa93af0145e05881f5"
+    },
+    "keymap_default.xml": {
+      "last_commit_epoch": 1788967862,
+      "sha256": "0f35641f7b5a803f0d55cf58be75917ff717e9335c82dc81c6a5a87b1bc08a3f"
+    }
+  },
+  "schema": 1,
+  "source": {
+    "repository": "hippoedit/website",
+    "root": "download/keymaps",
+    "sha": "80626fe5cc008c2e5dbd856024ccbe1cef75f8aa"
+  }
+}

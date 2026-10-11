@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="keymap.xslt"?>
+<XMLConfigSettings>
+  <FILEINFO author="HippoEDIT.com" type="HotkeySchema"/>
+  <HOTKEYSCHEMA name="Default">
+    <Shortcut verb_id="Edit.ParagraphNext" key="221" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtParagraphNext" key="221" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtColumnParagraphNext" key="221" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.ParagraphPrev" key="219" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtParagraphPrev" key="219" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtColumnParagraphPrev" key="219" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.PreviewInBrowser" key="123"/>
+    <Shortcut verb_id="View.FindResults2" key="123" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.FullScreen" key="122"/>
+    <Shortcut verb_id="View.FindResults1" key="122" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.ToolbarMainMenu" key="121" alt="true"/>
+    <Shortcut verb_id="View.Output" key="121" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.BookmarksExplorer" key="120" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.SetAnchor" key="118"/>
+    <Shortcut verb_id="Edit.SelectFromAnchor" key="118" shift="true"/>
+    <Shortcut verb_id="Edit.JumpToAnchor" key="118" ctrl="true"/>
+    <Shortcut verb_id="File.ExportPDF" key="118" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.SwapAnchor" key="118" alt="true"/>
+    <Shortcut verb_id="Edit.ColumnSelectFromAnchor" key="118" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleSelectionLock" key="117"/>
+    <Shortcut verb_id="File.ExportRTF" key="117" shift="true" ctrl="true"/>
+    <Shortcut verb_id="File.Reload" key="116"/>
+    <Shortcut verb_id="File.ExportHTML" key="116" shift="true" ctrl="true"/>
+    <Shortcut verb_id="File.Close" key="115" ctrl="true"/>
+    <Shortcut verb_id="File.CloseAllDocuments" key="115" shift="true" ctrl="true"/>
+    <Shortcut verb_id="File.Exit" key="115" alt="true"/>
+    <Shortcut verb_id="Edit.Repeat" key="114"/>
+    <Shortcut verb_id="Edit.FindPrevious" key="114" shift="true"/>
+    <Shortcut verb_id="Edit.NextOccurrence" key="114" ctrl="true"/>
+    <Shortcut verb_id="Edit.PreviousOccurrence" key="114" shift="true" ctrl="true"/>
+    <Shortcut verb_id="View.ProjectExplorer" key="114" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.GoToNextBookmark" key="113"/>
+    <Shortcut verb_id="Edit.GoToPrevBookmark" key="113" shift="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark" key="113" ctrl="true"/>
+    <Shortcut verb_id="Edit.ClearAllBookmarks" key="113" shift="true" ctrl="true"/>
+    <Shortcut verb_id="View.FileExplorer" key="113" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Help.Help" key="112"/>
+    <Shortcut verb_id="Help.HelpTopics" key="112" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.NormalSize" key="111" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.CollapseCurrentNode" key="109" ctrl="true"/>
+    <Shortcut verb_id="View.CollapseToDefinition" key="109" shift="true" ctrl="true"/>
+    <Shortcut verb_id="View.ZoomOut" key="109" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.OpenCurrent" key="107" ctrl="true"/>
+    <Shortcut verb_id="View.OpenAll" key="107" shift="true" ctrl="true"/>
+    <Shortcut verb_id="View.ZoomIn" key="107" ctrl="true" alt="true"/>
+    <Shortcut verb_id="View.ToggleCurrent" key="106" ctrl="true"/>
+    <Shortcut verb_id="Edit.Undo" key="90" ctrl="true"/>
+    <Shortcut verb_id="Edit.Redo" key="89" ctrl="true"/>
+    <Shortcut verb_id="Edit.Cut" key="88" ctrl="true"/>
+    <Shortcut verb_id="Edit.LineCut" key="88" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Window.Close" key="87" ctrl="true"/>
+    <Shortcut verb_id="Edit.Paste" key="86" ctrl="true"/>
+    <Shortcut verb_id="Edit.PasteExtended" key="86" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.PasteNew" key="86" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.Uppercase" key="85" ctrl="true"/>
+    <Shortcut verb_id="Edit.Sentence" key="84" ctrl="true"/>
+    <Shortcut verb_id="Edit.LineCopy" key="84" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.LineTranspose" key="84" ctrl="true" alt="true"/>
+    <Shortcut verb_id="File.Save" key="83" ctrl="true"/>
+    <Shortcut verb_id="File.SaveAll" key="83" shift="true" ctrl="true"/>
+    <Shortcut verb_id="File.ReadOnly" key="82" ctrl="true"/>
+    <Shortcut verb_id="View.QuickFind" key="81" ctrl="true"/>
+    <Shortcut verb_id="File.Print" key="80" ctrl="true"/>
+    <Shortcut verb_id="File.PrintDirect" key="80" shift="true" ctrl="true"/>
+    <Shortcut verb_id="File.PrintPreview" key="80" ctrl="true" alt="true"/>
+    <Shortcut verb_id="File.Open" key="79" ctrl="true"/>
+    <Shortcut verb_id="File.OpenSelectedFileName" key="79" shift="true" ctrl="true"/>
+    <Shortcut verb_id="File.OpenOpposite" key="79" alt="true"/>
+    <Shortcut verb_id="File.New" key="78" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoToBookmarks" key="77" shift="true" ctrl="true"/>
+    <Shortcut verb_id="View.NavigationBar" key="77" alt="true"/>
+    <Shortcut verb_id="Edit.Lowercase" key="76" ctrl="true"/>
+    <Shortcut verb_id="Edit.LineDelete" key="76" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.Swapcase" key="75" ctrl="true"/>
+    <Shortcut verb_id="Edit.Capitalize" key="74" ctrl="true"/>
+    <Shortcut verb_id="Edit.FindIncrementalNext" key="73" ctrl="true"/>
+    <Shortcut verb_id="Edit.FindIncrementalPrevious" key="73" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.Replace" key="72" ctrl="true"/>
+    <Shortcut verb_id="Edit.HighlightSearch" key="72" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoTo" key="71" ctrl="true"/>
+    <Shortcut verb_id="Edit.SmartNavigate" key="71" alt="true"/>
+    <Shortcut verb_id="Edit.GoToMatchingBrace" key="71" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.Find" key="70" ctrl="true"/>
+    <Shortcut verb_id="Edit.FindInFiles" key="70" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ScopeEnd" key="69" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtScopeEnd" key="69" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ScopePartNext" key="69" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.ExtScopePartNext" key="69" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.LineDuplicate" key="68" ctrl="true"/>
+    <Shortcut verb_id="Edit.Copy" key="67" ctrl="true"/>
+    <Shortcut verb_id="Edit.ToggleColumnSelection" key="67" alt="true"/>
+    <Shortcut verb_id="Edit.ScopeBegin" key="66" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtScopeBegin" key="66" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ScopePartPrev" key="66" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.ExtScopePartPrev" key="66" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.SelectAll" key="65" ctrl="true"/>
+    <Shortcut verb_id="View.ActiveDocument" key="65" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark9" key="57" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark9" key="57" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark8" key="56" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark8" key="56" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark7" key="55" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark7" key="55" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark6" key="54" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark6" key="54" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark5" key="53" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark5" key="53" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark4" key="52" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark4" key="52" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark3" key="51" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark3" key="51" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark2" key="50" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark2" key="50" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark1" key="49" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark1" key="49" alt="true"/>
+    <Shortcut verb_id="Edit.ToggleBookmark0" key="48" ctrl="true"/>
+    <Shortcut verb_id="Edit.GoBookmark0" key="48" alt="true"/>
+    <Shortcut verb_id="Edit.Delete" key="46"/>
+    <Shortcut verb_id="Edit.Cut" key="46" shift="true"/>
+    <Shortcut verb_id="Edit.DeleteWord" key="46" ctrl="true"/>
+    <Shortcut verb_id="Edit.DeleteTillLineEnd" key="46" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.SwitchOvrmode" key="45"/>
+    <Shortcut verb_id="Edit.Paste" key="45" shift="true"/>
+    <Shortcut verb_id="Edit.Copy" key="45" ctrl="true"/>
+    <Shortcut verb_id="Edit.LineDown" key="40"/>
+    <Shortcut verb_id="Edit.ExtLineDown" key="40" shift="true"/>
+    <Shortcut verb_id="Edit.ScrollDown" key="40" ctrl="true"/>
+    <Shortcut verb_id="Edit.SelectLinesDown" key="40" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExpandSelection" key="40" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnLineDown" key="40" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.MoveLinesDown" key="40" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.CharRight" key="39"/>
+    <Shortcut verb_id="Edit.ExtCharRight" key="39" shift="true"/>
+    <Shortcut verb_id="Edit.WordRight" key="39" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtWordRight" key="39" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Window.TabNext" key="39" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnCharRight" key="39" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnWordRight" key="39" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.LineUp" key="38"/>
+    <Shortcut verb_id="Edit.ExtLineUp" key="38" shift="true"/>
+    <Shortcut verb_id="Edit.ScrollUp" key="38" ctrl="true"/>
+    <Shortcut verb_id="Edit.SelectLinesUp" key="38" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ShrinkSelection" key="38" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnLineUp" key="38" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.MoveLinesUp" key="38" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.CharLeft" key="37"/>
+    <Shortcut verb_id="Edit.ExtCharLeft" key="37" shift="true"/>
+    <Shortcut verb_id="Edit.WordLeft" key="37" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtWordLeft" key="37" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Window.TabPrevious" key="37" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnCharLeft" key="37" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnWordLeft" key="37" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.Home" key="36"/>
+    <Shortcut verb_id="Edit.ExtHome" key="36" shift="true"/>
+    <Shortcut verb_id="Edit.TextBegin" key="36" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtTextBegin" key="36" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtColumnHome" key="36" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnTextBegin" key="36" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.LineEnd" key="35"/>
+    <Shortcut verb_id="Edit.ExtLineEnd" key="35" shift="true"/>
+    <Shortcut verb_id="Edit.TextEnd" key="35" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtTextEnd" key="35" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.ExtColumnLineEnd" key="35" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.ExtColumnTextEnd" key="35" shift="true" ctrl="true" alt="true"/>
+    <Shortcut verb_id="Edit.PageDown" key="34"/>
+    <Shortcut verb_id="Edit.ExtPageDown" key="34" shift="true"/>
+    <Shortcut verb_id="Edit.ExtColumnPageDown" key="34" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.PageUp" key="33"/>
+    <Shortcut verb_id="Edit.ExtPageUp" key="33" shift="true"/>
+    <Shortcut verb_id="Edit.ExtColumnPageUp" key="33" shift="true" alt="true"/>
+    <Shortcut verb_id="Edit.AutoComplete" key="32" ctrl="true"/>
+    <Shortcut verb_id="Edit.QuickInfo" key="32" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.LineBelow" key="13" shift="true"/>
+    <Shortcut verb_id="Edit.ExpandTemplate" key="13" ctrl="true"/>
+    <Shortcut verb_id="Edit.LineAbove" key="13" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.Indent" key="9"/>
+    <Shortcut verb_id="Edit.UnIndent" key="9" shift="true"/>
+    <Shortcut verb_id="Window.Next" key="9" ctrl="true"/>
+    <Shortcut verb_id="Window.Previous" key="9" shift="true" ctrl="true"/>
+    <Shortcut verb_id="Edit.DeleteBack" key="8"/>
+    <Shortcut verb_id="Edit.DeleteWordBack" key="8" ctrl="true"/>
+    <Shortcut verb_id="Edit.Undo" key="8" alt="true"/>
+    <Shortcut verb_id="Tools.Cancel" key="3" ctrl="true"/>
+  </HOTKEYSCHEMA>
+</XMLConfigSettings>
